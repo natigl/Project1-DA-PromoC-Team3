@@ -1,9 +1,5 @@
-Group 3 is integrated by Natalia Garcia, Marta Nuñez, Irene Powers, Judith Blanco and Ana Gallego.
+El grupo 3 está formado por Natalia García, Marta Nuñez, Irene Powers, Judith Blanco y Ana Gallego. 
 
-In this repository you will find how we have cleaned and merged the information that was provided to us in different csv. This is where we put into practice the most basic knowledge of Python.
+En este repositorio podrás encontrar como limpiamos y unimos la información que se nos porporcionó en distintos tipos de fichero, poniendo en práctica nuestros conocimientos más básicos de Python. 
 
-We worked with txt and xml files, opening, parsing and cleaning the data.
-
-For them, we have worked with functions, for loops, string and list methods among others.
-
-In addition, we have created a SQL database to be able to enter all our data and have them well organized.
+Para ello, hemos trabajado con funciones, for loops y métodos de strings y listas entre otros. Además, creamos una BBDD para poder intoducir estos datos y tenerlos así más ordenados, optimizando el proceso de consultas sobre ellos. 
